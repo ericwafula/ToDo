@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="saved_succesfully">Note Saved Successfully</string>
+    <string name="deleted_successfully">Note Deleted Successfully</string>
+</resources>
